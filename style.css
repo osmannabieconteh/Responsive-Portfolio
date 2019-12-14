@@ -4,7 +4,7 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   
     
-    background-image: url("./images/background.jpg");
+    background-image: url("./images/Sierra_Leone.png");
   }
   
   html {
@@ -30,7 +30,7 @@ body {
   
   .block-header {
    
-    color: #4aaaa5;
+    color:black;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
   }
@@ -41,10 +41,10 @@ body {
    
     font-size: 24px;
     font-weight: bold;
-    color: #fff;
+    color:black;
   
    
-    background: #00ffdd;
+    background:whitesmoke;
   }
   
   .navbar-default .navbar-nav > li > a:hover {
@@ -117,7 +117,7 @@ body {
   }
   
   .about-me-header {
-    /* Positioning */
+    
     margin-bottom: 33px;
     font-family: Georgia, Times, "Times New Roman", serif;
   
@@ -152,20 +152,7 @@ body {
     max-width: 100%;
   }
   
-  /* .submit-btn {
 
-    padding: 15px 30px;
-    font-size: 16px;
-    font-weight: lighter;
-  
-    
-    color: #fff;
-  
-
-    background-color: #4aaaa5;
-    border: 0;
-  } */
-  
   .submit-btn:hover {
     opacity: .7;
   }
